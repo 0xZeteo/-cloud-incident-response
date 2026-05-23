@@ -85,7 +85,7 @@ The IAM principal used by Stratus Red Team lacked the `ec2:GetPasswordData` perm
 ### Screenshots
 
 
-![](screenshots/get-password-data-terminal.png)
+![terminal](screenshots/get-password-data-terminal.png)
 ![](screenshots/get-password-data-console.png)
 
 
