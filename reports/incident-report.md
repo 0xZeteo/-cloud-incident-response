@@ -84,10 +84,10 @@ The IAM principal used by Stratus Red Team lacked the `ec2:GetPasswordData` perm
 
 ### Screenshots
 
-```text
-screenshots/get-password-data-terminal.png
-screenshots/get-password-data-console.png
-```
+
+(screenshots/get-password-data-terminal.png)
+(screenshots/get-password-data-console.png)
+
 
 ---
 
@@ -142,10 +142,10 @@ The IAM principal possessed excessive CloudTrail management permissions, allowin
 
 ### Screenshots
 
-```text
-screenshots/cloudtrail-stop-terminal.png
-screenshots/cloudtrail-stop-console.png
-```
+
+(screenshots/cloudtrail-stop-terminal.png)
+(screenshots/cloudtrail-stop-console.png)
+
 
 ---
 
@@ -200,10 +200,9 @@ The compromised IAM credentials had excessive `iam:*` permissions, allowing unre
 
 ### Screenshots
 
-```text
-screenshots/create-admin-user-terminal.png
-screenshots/create-admin-user-console.png
-```
+(screenshots/create-admin-user-terminal.png)
+(screenshots/create-admin-user-console.png)
+
 
 ---
 
