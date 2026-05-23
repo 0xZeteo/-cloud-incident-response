@@ -143,7 +143,7 @@ The IAM principal possessed excessive CloudTrail management permissions, allowin
 ### Screenshots
 
 
-![](screenshots/cloudtrail-stop-terminal.png)
+![cloudtrail stop](screenshots/cloudtrail-stop-terminal.png)
 ![](screenshots/cloudtrail-stop-console.png)
 
 
